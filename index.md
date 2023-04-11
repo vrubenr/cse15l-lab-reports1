@@ -4,7 +4,7 @@
 
 2. Install VScode it should look like the image when loaded up (VScode should look like this window when installed and opened). You should also install bash this will help login to the terminal.
 
-![Image](Screenshot (4).png)
+![alt text](Screenshot (4).png)
 
 2. When remotely connecting in VCcode you need to connect using login the specific account to the internet first you will use this to also login to the terminal this will be your course-specific account with @ieng6.ucsd (Ex: cs15lsp23zz@ieng6.ucsd.edu) then login in the terminal in VScode located in the top left on grey tab.
 
